@@ -5,8 +5,8 @@ It allows you to monitor network traffic between a specific target IP and gatewa
 
 
 ## How to use:
-  Download the file (sniffer.py) and run it like this:
-  ```python sniffer.py -i Wi-Fi(or whatever interface u are on) -t <target_ip> -g <target_gateway> <and arguments>```
+  Download the file (sniffer.py) and run it like this: <br>
+  ```python sniffer.py -i Wi-Fi(or whatever interface u are on) -t <target_ip> -g <target_gateway> <and arguments>``` <br>
   use the command ``"python sniffer.py --help"`` to see all the arguments 
 
 
