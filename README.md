@@ -8,11 +8,12 @@ It allows you to monitor network traffic between a specific target IP and gatewa
 ## 🚀 How to Use
 
 1. Download sniffer.py  
-2. Run it like this:
+2. Run it like this in cmd as Administrator:
 
 ```bash
 python sniffer.py -i Wi-Fi -t <target_ip> -g <gateway_ip> -p <aruguments>
 ```
+Note: Check for correct interface on your device.
 
 3. For more arugments run: 
 
